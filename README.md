@@ -1,69 +1,37 @@
-<h1 align="center">Hi 👋, I'm Byron</h1>
-<h3 align="center">A student learning how to be a developer from Ecuador</h3>
+<h1 align="center">Byron De Loor</h1>
+<h3 align="center">Ingeniero en Mecatronica | Ecuador</h3>
 
-- 🌱 I’m currently learning **Django, React.**
+---
 
-<h3 align="left">Lenguajes de Programación:</h3>
-<p align="left"> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-    </a> 
-    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-    </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-    </a> 
-</p>
+### Resumen Profesional
 
-<h3 align="left">Herramientas y Frameworks:</h3>
-<p align="left"> 
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40"/> 
-    </a> 
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-    </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-    </a> 
-</p>
+Soy un ingeniero en mecatrónica apasionado por el desarrollo de software, con un enfoque en la creación de soluciones eficientes y escalables. Actualmente estoy expandiendo mis habilidades en tecnologías web modernas y tengo un fuerte interés en la automatización de procesos y el análisis de datos.
 
-<h3 align="left">Visualización de Datos:</h3>
-<p align="left"> 
-    <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerbi/microsoft_powerbi-icon.svg" alt="powerbi" width="40" height="40"/> 
-    </a> 
-</p>
+---
 
-<h3 align="left">Automatización y RPA:</h3>
-<p align="left"> 
-    <a href="https://powerautomate.microsoft.com/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.vectorlogo.zone/logos/microsoft_powerautomate/microsoft_powerautomate-icon.svg" alt="powerautomate" width="40" height="40"/> 
-    </a>
-    <a href="https://www.automationanywhere.com/" target="_blank" rel="noreferrer">
-        <img src="https://cdn.simpleicons.org/automationanywhere/F04438" alt="Automation Anywhere" width="40" height="40"/>
-    </a>
-</p>
+### Habilidades Técnicas
 
-<h3 align="left">Otros Conocimientos:</h3>
-<p align="left"> 
-    <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> 
-        <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="40" height="40"/>
-    </a>
-</p>
+* **Lenguajes de Programación:**
+    * Python, C#, JavaScript, HTML5, CSS3, SQL
+
+* **Frameworks y Librerías:**
+    * Django, React
+
+* **Bases de Datos:**
+    * PostgreSQL
+
+* **Herramientas de Desarrollo y Control de Versiones:**
+    * Git
+
+* **Business Intelligence y Automatización (RPA):**
+    * Power BI, Power Automate, Automation Anywhere
+
+* **Otras Tecnologías:**
+    * Arduino, MATLAB
+
+---
+
+### Contacto
+
+* **LinkedIn:** `[Enlace a tu perfil de LinkedIn]`
+* **Correo Electrónico:** `tu.email@ejemplo.com`
